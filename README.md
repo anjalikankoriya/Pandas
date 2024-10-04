@@ -23,6 +23,7 @@ Pandas simplifies the entire process of working with structured data. Whether yo
 - _Performing quick analyses_
 - _Visualizing trends_
 - _Merging, reshaping, or transforming data for further analysis._
+  
 Pandas provides efficient and effective tools that make these tasks straightforward. This repository is a stepping stone for building your proficiency in pandas and elevating your data analysis skills to the next level.
 
 # Contribution
